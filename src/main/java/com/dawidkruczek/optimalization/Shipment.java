@@ -27,4 +27,8 @@ public class Shipment {
     public int getCellDemand() {
         return cellDemand;
     }
+
+    public void setCellDemand(int cellDemand) {
+        this.cellDemand = cellDemand;
+    }
 }
